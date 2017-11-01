@@ -1,4 +1,6 @@
 title: Learn pandoc
 description: An Introduction to Digital Editing
-author: Pablo Rodríguez
+author: 
+  - name: Pablo Rodríguez
+  - website: http://www.ousia.tk
 theme: jekyll-theme-minimal
