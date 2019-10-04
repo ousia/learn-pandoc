@@ -29,7 +29,7 @@ It you find any flaw or you have something to comment, please [open an issue](ht
 
 ## Motivation
 
-_Learn `pandoc`_ may be downloaded by anyone (see [Licensing] below). This follows a simple purpose: everyone may experiece why learning a system of digital edition with professional results might be useful.
+_Learn `pandoc`_ may be downloaded by anyone (see [_Licensing_](#licensing) below). This follows a simple purpose: everyone may experiece why learning a system of digital edition with professional results might be useful.
 
 There is a deal in what may be considered a noble persons’ agreement:
 
